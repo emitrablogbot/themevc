@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "f2d5e882d3d59996033b",
+  "publicPath": "",
+  "outputPath": "D:\\Theme Project\\my-app\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "my-app": "my-app.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 47064,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "my-app.module.js",
+      "size": 7013340,
+      "chunks": [
+        "my-app"
+      ],
+      "chunkNames": [
+        "my-app"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "my-app": {
+      "chunks": [
+        "my-app"
+      ],
+      "assets": [
+        "my-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "my-app",
+      "files": [
+        "my-app.module.js"
+      ]
+    }
+  ]
+}
